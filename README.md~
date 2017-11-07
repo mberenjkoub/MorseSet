@@ -1,7 +1,7 @@
 # MorseSet
 
 The goal of this project was to extract the Morse Sets defined as strongly connected component regions in the flow. For the first time, we propose a method to extract the Morse Sets in piece-wise linear vector field. The input of this software is the velocity fields data for 3D datasets and the output is the extracted Morse sets. 
-This software implemented in C++ (windows) using two libraries of Qt and CUDA and OpenGL. 
+This software implemented in C++ (windows) using two libraries of Qt and CUDA. 
 
 
 ## Description
